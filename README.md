@@ -1,6 +1,6 @@
 # belajarVueQuiz
 
-This template should help get you started developing with Vue 3 in Vite.
+This is my Vue 3 learning repository
 
 ## Recommended IDE Setup
 
