@@ -1,5 +1,6 @@
 # belajarVueQuiz
 
+# learn pages folder first
 This is my Vue 3 learning repository
 
 ## Recommended IDE Setup
