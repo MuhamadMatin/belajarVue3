@@ -1,4 +1,5 @@
 <script setup>
+  // cara import ketika berhasil dilempar dari quiz pages
   const { quizLength, correctAnswer } = defineProps(['quizLength', 'correctAnswer']);
 </script>
 

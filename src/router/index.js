@@ -4,6 +4,7 @@ import quiz from '../pages/Quiz.vue';
 
 const router = createRouter({
   // createWebHistory berguna untuk mengupdate URL pada browser
+  // tanpa ini URL tidak akan terupdate teteapi bisa digunakan jika tidak dinamis
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
@@ -19,4 +20,5 @@ const router = createRouter({
   ],
 });
 
+// kalau udah export
 export default router;
